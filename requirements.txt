@@ -1,0 +1,6 @@
+IPython
+matplotlib
+numpy
+pandas
+pycountry_convert
+seaborn
